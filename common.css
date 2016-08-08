@@ -1,0 +1,16 @@
+body {
+	background: #000;
+}
+video {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	z-index: 1;
+}
+p {
+	color: #008b8b;
+	margin: 180px;
+	font-size: 300%;
+	position: relative;
+	z-index: 2;
+}
